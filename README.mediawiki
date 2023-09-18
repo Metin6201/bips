@@ -1156,5 +1156,32 @@ Those proposing changes should consider that ultimately consent may rest with th
 | Informational
 | Draft
 |}
-
-<!-- IMPORTANT!  See the instructions at the top of this page, do NOT JUST add BIPs here! -->
+|[bitcoin-dev@list.linuxfoundation.org] 
+|(do <em>-degil < /em> 1-1191 <aref="bip_0002.mediawiki">BIP2 < /a> 
+<!-- | [ bip_0001.mediawiki|1]
+     | [ bip_0002.mediawiki|2]
+     | [ bip_0008.mediawiki|8]
+     | [ bip_0009.mediawiki|9]
+     | [ bip_0010.mediawiki|10]
+     | [ bip_0011.mediawiki|11]
+     | [ bip_0012.mediawiki|12]
+     | [ bip_0013.mediawiki|13]
+     | [ bip_0014.mediawiki|14]
+     | [ bip_0015.mediawiki|15]
+     | [ bip_0016.mediawiki|16]
+     | [ bip_0017.mediawiki|17]
+     | [ bip_0018.mediawiki|18]
+     | [ bip_0019.mediawiki|19]
+     | [ bip_0020.mediawiki|20]
+     | [ bip_0021.mediawiki|21]
+     | [ bip_0022.mediawiki|22]
+     | [ bip_0023.mediawiki|23]
+     | [ bip_0030.mediawiki|30]
+     | [ bip_0031.mediawiki|31]
+     | [ bip_0032.mediawiki|32]
+     | [ bip_0033.mediawiki|33]
+     | [ bip_0034.mediawiki|34]
+     | [ bip_0035.mediawiki|35]
+     | [ bip_0036.mediawiki|36]
+     | [ bip_0386.mediawiki|386]
+-->
