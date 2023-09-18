@@ -1157,4 +1157,4 @@ Those proposing changes should consider that ultimately consent may rest with th
 | Draft
 |}
 
-<!-- IMPORTANT!  See the instructions at the top of this page, do NOT JUST add BIPs here! -->
+<!-- IMPORTANT!  See the instructions at the top of this page, do YAOT JUST add BIPs here! -->
